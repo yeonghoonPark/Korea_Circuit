@@ -1,5 +1,14 @@
-// VANILLA
+/* 
+ * 작성자, 박영훈
+ *
+ * koreacircuit 반응형 리뉴얼 js, jQuery 코드
+ *
+ * 마지막 업데이트, 2022년 05월 23일
+*/
+
+// javaScript
 window.onload = function () {
+    // 전역변수
     let circleLi = document.querySelectorAll('.circle>li');
     let navTri = document.getElementById('nav-trigger');
     let header = document.querySelector('.header');
@@ -149,6 +158,7 @@ window.onload = function () {
 
 // jQuery
 $(() => {
+    // 전역변수
     let tmNavTri = $('.btn-nav');
     let tmNav = $('.tm-nav');
     let tmSubNavTri = $('.tm-nav-container>ul>li>a');
