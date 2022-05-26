@@ -3,7 +3,7 @@
  *
  * koreacircuit 반응형 리뉴얼 js, jQuery 코드
  *
- * 마지막 업데이트, 2022년 05월 23일
+ * 마지막 업데이트, 2022년 05월 26일
 */
 
 // javaScript
@@ -137,7 +137,7 @@ window.onload = function () {
                 }
                 slideVis[idx].classList.add('active');
                 slideBtn[idx++].classList.add('active');
-            }, 1000);
+            }, 3000);
             slideClassToggle();
         });
     }
