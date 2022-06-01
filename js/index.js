@@ -45,7 +45,6 @@ window.onload = function () {
         }
     });
     
-
     // CIRCLE NAV ACTIVE
     // 'click', => 'circle-nav'의 li에 class="active"를 부여, li의 a에 background-position-y를 변경.
     for (let idx = 0; idx < circleLi.length; idx++)
