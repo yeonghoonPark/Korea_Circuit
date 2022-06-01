@@ -31,3 +31,9 @@
 - PC Interface
   
   ![pc_interface](https://user-images.githubusercontent.com/95198410/171403078-b701ae56-b7a7-42cb-8f35-45429744e24b.png)
+
+### 5. 코드 바로가기
+
+- index.html : https://github.com/yeonghoonPark/koreacircuit/blob/main/index.html
+- index.css : https://github.com/yeonghoonPark/koreacircuit/blob/main/css/index.css
+- index.js : https://github.com/yeonghoonPark/koreacircuit/blob/main/js/index.js
