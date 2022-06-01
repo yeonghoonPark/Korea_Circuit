@@ -18,7 +18,7 @@
 - javaScript, jQuery
 - Media Query
 
-### 4. Mobile, Tablet
+### 4. Mobile, Tablet, PC Interface 미리보기
 
 - Mobile Navigatin
 
