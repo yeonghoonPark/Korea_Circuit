@@ -9,6 +9,7 @@
 
 - 기존의 비반응형 웹사이트를 Flex를 이용하여 mobile, tablet에서 반응형으로 구현
 - CSS Flex(Flexible Box)에 대한 이해
+- VanillaScript를 이용한 Slide 구현
 
 ### 3. 사용기술
 
